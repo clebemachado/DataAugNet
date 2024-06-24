@@ -1,0 +1,2 @@
+YOLO_ALBUMENTATION_ERROR_MESSAGE = "YoloProcessData process requires albumentation compatible with YoloAlbumentation"
+UNET_ALBUMENTATION_ERROR_MESSAGE = "UnetProcessData process requires albumentation compatible with UnetAlbumentation"

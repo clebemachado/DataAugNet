@@ -1,0 +1,1 @@
+from .labeled_image import LabeledImage
